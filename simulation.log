@@ -1,0 +1,113 @@
+RUN	computerdatabase.ComputerDatabaseSimulation	computerdatabasesimulation	1767525278784	Load testing with 10 users	3.9.5
+REQUEST		Home	1767525280380	1767525280380	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525280380	1767525280380	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525280386
+USER	Admins	START	1767525280386
+REQUEST		Home	1767525281360	1767525281360	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525281360
+REQUEST		Search	1767525281394	1767525281395	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Search	1767525281394	1767525281395	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525282360	1767525282360	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525282360
+REQUEST		Search	1767525282376	1767525282376	KO	j.n.UnknownHostException: computer-database.gatling.io
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525282410
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525282410
+REQUEST		Search	1767525283361	1767525283362	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525283361	1767525283362	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525283362
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525283392
+REQUEST		Page 0	1767525283423	1767525283423	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525283423	1767525283423	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525284361	1767525284361	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525284361
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525284377
+REQUEST		Search	1767525284377	1767525284377	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525284407	1767525284407	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525284439	1767525284439	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525284439	1767525284439	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525285360	1767525285360	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Admins	START	1767525285360
+REQUEST		Home	1767525285360	1767525285360	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525285360
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525285390
+REQUEST		Search	1767525285391	1767525285391	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525285391	1767525285391	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525285422	1767525285423	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525285454	1767525285455	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525285454	1767525285455	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525286375	1767525286375	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525286375
+REQUEST		Search	1767525286375	1767525286375	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Search	1767525286375	1767525286375	KO	j.n.UnknownHostException: computer-database.gatling.io
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525286406
+REQUEST		Page 1	1767525286407	1767525286407	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525286407	1767525286407	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525286439	1767525286439	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1767525286484	1767525286484	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1767525286484	1767525286484	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525287360	1767525287360	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525287360
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525287375
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525287375
+REQUEST		Search	1767525287376	1767525287376	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525287408	1767525287408	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525287424	1767525287424	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525287424	1767525287424	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1767525287440	1767525287441	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Form	1767525287485	1767525287485	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525287487
+REQUEST		Form	1767525287489	1767525287489	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Admins	END	1767525287490
+REQUEST		Home	1767525288361	1767525288361	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525288361
+REQUEST		Search	1767525288361	1767525288361	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525288377	1767525288377	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525288377	1767525288377	KO	j.n.UnknownHostException: computer-database.gatling.io
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525288393
+REQUEST		Page 3	1767525288425	1767525288425	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525288454
+REQUEST		Page 2	1767525288454	1767525288454	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525288454	1767525288454	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Home	1767525289360	1767525289360	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	START	1767525289360
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525289376
+REQUEST		Search	1767525289376	1767525289377	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525289392	1767525289392	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525289392	1767525289392	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525289408	1767525289408	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525289429
+REQUEST		Page 3	1767525289469	1767525289469	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525289469	1767525289469	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Search	1767525290377	1767525290383	KO	j.n.UnknownHostException: No such host is known (computer-database.gatling.io)
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525290392
+REQUEST		Page 0	1767525290392	1767525290392	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525290407	1767525290407	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525290407	1767525290407	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525290422	1767525290423	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525290486
+REQUEST		Page 3	1767525290486	1767525290486	KO	j.n.UnknownHostException: computer-database.gatling.io
+ERROR	Select: Failed to build request: No attribute named 'computerUrl' is defined 	1767525291406
+REQUEST		Page 1	1767525291406	1767525291406	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525291406	1767525291406	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1767525291422	1767525291422	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1767525291423	1767525291423	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525291438	1767525291438	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525291516
+REQUEST		Page 2	1767525292422	1767525292422	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525292422	1767525292422	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 0	1767525292423	1767525292423	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525292438
+REQUEST		Form	1767525292438	1767525292438	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Form	1767525292439	1767525292439	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Admins	END	1767525292439
+REQUEST		Page 3	1767525292454	1767525292454	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 2	1767525293424	1767525293424	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 1	1767525293424	1767525293424	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1767525293424	1767525293424	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525293484
+USER	Users	END	1767525294440
+REQUEST		Page 2	1767525294440	1767525294440	KO	j.n.UnknownHostException: computer-database.gatling.io
+REQUEST		Page 3	1767525294440	1767525294440	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525295454
+REQUEST		Page 3	1767525295454	1767525295454	KO	j.n.UnknownHostException: computer-database.gatling.io
+USER	Users	END	1767525296469
