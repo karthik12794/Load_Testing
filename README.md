@@ -71,12 +71,15 @@ The HTML report folder (`computerdatabasesimulation-20260104111438784`) contains
 - `img/` — images used in the charts
 - `fonts/` — fonts for report visualization
   ## output
-
+## summary
 <img width="1506" height="803" alt="Image" src="https://github.com/user-attachments/assets/3ba82752-299a-454f-b10c-a60cf6d457cc" />
 
 
+## global info
+
 <img width="1358" height="846" alt="Image" src="https://github.com/user-attachments/assets/97144f88-c119-4119-b4e4-12d05e77ebd6" />
 
+## graphs
 
 <img width="1274" height="773" alt="Image" src="https://github.com/user-attachments/assets/ce93089a-4ba4-45e6-aa19-c3fe1e20d9c3" />
 
