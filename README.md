@@ -72,4 +72,7 @@ The HTML report folder (`computerdatabasesimulation-20260104111438784`) contains
 - `fonts/` — fonts for report visualization
   ## output
 
+<img width="1506" height="803" alt="Image" src="https://github.com/user-attachments/assets/3ba82752-299a-454f-b10c-a60cf6d457cc" />
+
+
   
