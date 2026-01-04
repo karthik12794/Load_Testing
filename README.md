@@ -75,4 +75,7 @@ The HTML report folder (`computerdatabasesimulation-20260104111438784`) contains
 <img width="1506" height="803" alt="Image" src="https://github.com/user-attachments/assets/3ba82752-299a-454f-b10c-a60cf6d457cc" />
 
 
+<img width="1358" height="846" alt="Image" src="https://github.com/user-attachments/assets/97144f88-c119-4119-b4e4-12d05e77ebd6" />
+
+
   
